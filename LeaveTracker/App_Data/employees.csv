@@ -1,0 +1,12 @@
+Id,Name,ManagerId
+100,Patty Furn,
+101,Ann Chovey,100
+102,Hazel Nutt,100
+103,Chris P. Bacon,101
+104,Marsha Mellow,102
+105,Olive Yew,101
+106,Barb Akew,102
+107,Aida Bugg,103
+108,Maureen Biologist,105
+109,Teri Dactyl,104
+110,Peg Legge,103
